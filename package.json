@@ -1,0 +1,19 @@
+{
+  "name": "ioc",
+  "version": "1.0.0",
+  "description": "Inversion of Control",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SofiulAlam/ioc.git"
+  },
+  "author": "Sofiul Alam",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SofiulAlam/ioc/issues"
+  },
+  "homepage": "https://github.com/SofiulAlam/ioc#readme"
+}
